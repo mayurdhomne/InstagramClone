@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="instagram_logo">Instagram Logo</string>
+    <string name="add_post">Add Post</string>
+    <string name="notifications">Notifications</string>
+    <string name="direct_messages">Direct Messages</string>
+    <string name="more_options">More Options</string>
+    <string name="post_image">Post Image</string>
+    <string name="carousel_image">Carousel Image</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="add">add</string>
+    <string name="reels">Reels</string>
+    <string name="shop">Shop</string>
+    <string name="profile">Profile</string>
+</resources>

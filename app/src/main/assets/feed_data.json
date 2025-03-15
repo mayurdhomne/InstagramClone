@@ -1,0 +1,44 @@
+[
+  {
+    "type": "image",
+    "imageUrl": "local_image1.jpg",
+    "caption": "Beautiful sunset",
+    "user": "world_explorer",
+    "profilePictureUrl": "profile_2.jpg",
+    "likes": 123
+  },
+  {
+    "type": "image",
+    "imageUrl": "local_image2.jpg",
+    "caption": "Amazing view from my hike today!",
+    "user": "skater_boy",
+    "profilePictureUrl": "profile_3.jpg",
+    "likes": 456,
+    "carouselImages": ["local_image2.jpg", "local_image3.jpg", "local_image4.jpg"]
+  },
+  {
+    "type": "video",
+    "videoUrl": "local_video1.mp4",
+    "caption": "Funny cat video",
+    "user": "food_lover",
+    "profilePictureUrl": "profile_4.jpg",
+    "likes": 789
+  },
+  {
+    "type": "image",
+    "imageUrl": "local_image5.jpg",
+    "caption": "Delicious food at this new restaurant",
+    "user": "art_enthusiast",
+    "profilePictureUrl": "profile_5.jpg",
+    "likes": 321
+  },
+  {
+    "type": "image",
+    "imageUrl": "local_image6.jpg",
+    "caption": "My new outfit",
+    "user": "dog_lover",
+    "profilePictureUrl": "profile_6.jpg",
+    "likes": 654,
+    "carouselImages": ["local_image6.jpg", "local_image7.jpg"]
+  }
+]
